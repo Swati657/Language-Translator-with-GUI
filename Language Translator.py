@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[12]:
-
-
 import tkinter as tk
 from tkinter import ttk
 from googletrans import Translator, LANGUAGES
@@ -56,13 +50,7 @@ if __name__ == "__main__":
 
 
 
-# In[ ]:
 
-
-
-
-
-# In[ ]:
 
 
 
